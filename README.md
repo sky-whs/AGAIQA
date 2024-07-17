@@ -7,7 +7,9 @@ Recent advancements in blind image quality assessment (BIQA) are primarily prope
 
 ## Network Architecture
 ![Network Architecture](./network/GAB.png)
+
 ## **USAGE**
+```sh
 python train.py
 
 ## **Acknowledgment**
