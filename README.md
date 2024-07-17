@@ -13,5 +13,24 @@ Recent advancements in blind image quality assessment (BIQA) are primarily prope
 python train.py
 ```
 
+## **Requirements**
+```sh
+pip install -r requirements.txt
+```
+
+## **Citation**
+```sh
+@ARTICLE{10539107,
+  author={Wang, Huasheng and Liu, Jiang and Tan, Hongchen and Lou, Jianxun and Liu, Xiaochang and Zhou, Wei and Liu, Hantao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Blind Image Quality Assessment via Adaptive Graph Attention}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Transformers;Image quality;Feature extraction;Adaptation models;Predictive models;Deep learning;Task analysis;Image quality assessment;no-reference;graph;convolutional neural networks;deep learning},
+  doi={10.1109/TCSVT.2024.3405789}}
+```
+
 ## **Acknowledgment**
 Our codes partially borrowed from [MANIQA](https://ieeexplore.ieee.org/document/10539107)
