@@ -33,4 +33,4 @@ pip install -r requirements.txt
 ```
 
 ## **Acknowledgment**
-Our codes partially borrowed from [MANIQA](https://ieeexplore.ieee.org/document/10539107)
+Our code incorporates components from [MANIQA](https://ieeexplore.ieee.org/document/10539107)
