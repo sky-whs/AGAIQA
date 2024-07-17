@@ -17,6 +17,9 @@ python train.py
 ```sh
 pip install -r requirements.txt
 ```
+# Pretrained Model
+You can manually download the pretrained models for the Koniq-10K datasets from [here] (https://drive.google.com/file/d/1Px-PJE-08BPCfhP_gB7B78Z4Sp7dAi-4/view?usp=drive_link)
+
 
 ## **Citation**
 ```sh
