@@ -10,7 +10,7 @@ Recent advancements in blind image quality assessment (BIQA) are primarily prope
 
 ## **USAGE**
 ```sh
-python train.py
+python train.py 
 
 ## Acknowledgment
 Our codes partially borrowed from [MANIQA](https://ieeexplore.ieee.org/document/10539107)
